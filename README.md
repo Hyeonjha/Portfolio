@@ -51,7 +51,7 @@ Here are some of the projects I've worked on:
 ## Contact <a name="contact"></a>
 
 - **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **GitHub**: [[github.com/yourusername](https://github.com/yourusername)](https://github.com/Hyeonjha)
+- **GitHub**: (https://github.com/Hyeonjha)
 - **Email**: your.email@example.com
 
 Feel free to reach out if you'd like to collaborate or learn more about my work!
