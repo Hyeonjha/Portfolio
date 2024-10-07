@@ -50,8 +50,8 @@ Here are some of the projects I've worked on:
 
 ## Contact <a name="contact"></a>
 
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **GitHub**: (https://github.com/Hyeonjha)
-- **Email**: your.email@example.com
+- **LinkedIn**: [linkedin.com/in/hyeonjiha](https://www.linkedin.com/in/hyeon-ji-ha-669663287/))
+- **GitHub**: [github.com/Hyeonjha](https://github.com/Hyeonjha)
+- **Email**: hyeonjh@umich.edu
 
 Feel free to reach out if you'd like to collaborate or learn more about my work!
