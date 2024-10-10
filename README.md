@@ -34,13 +34,13 @@ Here are some of the key projects and research I've worked on:
 ### 3. Image Similarity Search Service (Internship Project)
    - **Description**: Built a deep learning-based image similarity search service using ConvNeXt and EfficientNetV2. Improved the embedding extraction process and database querying speed by integrating Weaviate with PostgreSQL.
    - **Tech Stack**: Python, ConvNeXt, EfficientNetV2, FastAPI, PostgreSQL, Weaviate, Apache Kafka
-   - [GitHub Repository](https://github.com/Hyeonjha/image-similarity-search)](https://github.com/Hyeonjha/AIV_ImageEmbedding)
+   - [GitHub Repository](https://github.com/Hyeonjha/AIV_ImageEmbedding)
 
 ### 4. Dynamic Hot Data Identification (Research Assistant Project)
    - **Description**: Conducted research on dynamic hot data identification for storage systems, leading to the development of a novel stack distance approximation scheme that improved performance by 49.8%. Published two patents on data classification techniques and authored a first-author research paper on efficient hot/cold data identification in storage devices.
    - **Tech Stack**: Python, Algorithm Optimization, Storage Systems
    - [GitHub Repository](https://github.com/Hyeonjha/updateMBF)
-   - [Research Publication]([https://link-to-paper.com](https://ieeexplore.ieee.org/document/9443093))
+   - [Research Publication](https://ieeexplore.ieee.org/document/9443093)
    
 ---
 
