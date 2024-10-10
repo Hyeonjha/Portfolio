@@ -1,4 +1,4 @@
-# Hyeon Ji's Data Science Portfolio
+# Hyeon Ji's Portfolio
 
 Welcome to my data science portfolio! Here, you'll find some of the projects I've worked on, showcasing my skills in deep learning, information retrieval, and more.
 
