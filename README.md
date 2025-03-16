@@ -25,6 +25,7 @@ Here are some of the key projects and research I've worked on:
 ### 1. Job Matching Information Retrieval System
    - **Description**: Developed an information retrieval system to match job seekers with relevant job postings based on their skills and work experience. Designed ranking algorithms using BM25 and text matching techniques to improve recommendation accuracy.
    - **Tech Stack**: Python, Information Retrieval, BM25, APIs, SQL
+   - [GitHub Repository](https://github.com/Hyeonjha/Job-Matching-Information-Retrieval-System)
 
 ### 2. Survival Prediction for Cancer Patients
    - **Description**: Implemented machine learning models to predict cancer patient survival based on tumor images. Developed feature extraction techniques and optimized ensemble models to enhance prediction accuracy.
